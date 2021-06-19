@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+table {
+  border: medium solid #000000;
+  width: 50%;
+  }
+  td, th {
+  border: thin solid #6495ed;
+  width: 50%;
+  }
+  .card-header bg-whitex {
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  }
+  #formTitle{
+    display: flex;
+
+    flex-direction: row;}
+
+
