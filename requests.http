@@ -1,0 +1,2 @@
+###### get all users with pagination second page
+GET http://localhost:3000/users?page=2&limit=10
